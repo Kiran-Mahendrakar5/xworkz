@@ -1,0 +1,122 @@
+1) Constructor is special method it is used to initialise the object
+* The main pursose of constuctor to initialise the object
+* Very class as a constuctor 
+* In constuctor there is no return type including VOID
+
+* There are two types of constuctor they are:-
+*Defolut constuctor
+*parameterise constuctor
+
+1)Defalut constuctor:-is constructor created by compiler
+if we do not define any class 
+
+2)parameterise constuctor:- programer written a class having one or more arguments
+
+
+2)Features of java:-
+*java is simple
+*java is plateformindence
+*java is secured
+*java is object orintal programming language
+*java is robust
+*java is multitreated
+
+
+*JAVA IS SIMPLE:- language
+*java is east learn 
+*java is east understand
+
+*JAVA IS PLATEFORMINDEPENCE:-
+*java right once run any way
+*java can write in any flateform
+
+*JAVA IS OBJECT ORINTAL PROGRAMMING LANGUAGE:-
+java is concept of object used to commicate with computerOrsystem
+
+*JAVA IS ROBUST:-
+*java has strong momory location
+*java is strong
+
+4)JDK
+*JRE
+*JVM
+
+*JDK:-java develepment kite CONVERT java file to class 
+*JRE:-java runtime envirolment it has strong memory laction
+*JVM:-java virtual machine help give out put
+
+
+6)about METHODS
+METHODS it is group of code take input from user and process it and give output
+
+why we method means:-define once and run muttiple object
+
+7)METHODS OVERLOADING WITH EXAMPLE
+METHOD OVERLOADING having same method but different parameters
+
+example:-method("Kiran",126,695686567);
+         method(234,"Owner",4574);
+		 method (112,"Jain" true 'J');
+Rules:-
+*Number of paremeter
+*Different dataytpes
+*Order of parameter
+		 
+		 
+8)DIFFERENCE BETWEEN CONSTRUCTOR AND METHOD
+
+CONSTRUCTOR:-it initialise the object 
+*it is special method
+*constructor chaing has two keyword
+ 1)this keyword :-refer the multiple object in constructor
+ 2)super keyword:-refer the object of super class 
+ *They is no return type including void 
+METHOD :-it takes input and process it and give out put to user
+*It has return type
+*method name same as class name
+
+
+STATIC MEANS its common thing and non access specifier
+9)STATIC VARIABLE:-A varible declared in static  know STATIC VARIABLE
+
+*STATIC METHOD:-STATIC METHOD means with creating object
+
+*STATIC BLOCK:-initialise static variables
+
+
+5) MEMORY AREA ALLOCATED BY JVM IS
+ *Jvm load class in class loader
+ *Jvm look for a main method
+ *It create stock and stock frame and heap also created in heap having constatnt pool Or string pool in down instatnce pool 
+ *In stack created in stack frame they store *name of method *all variables *excution lines
+ *It next mathod again create stack frame same process
+ *Excution done complety the perticular fram is deleded
+ *Next main also get deleted
+ *Stack also deleted 
+AND its creating new object  This is memory located by JVM
+
+
+3)C++ AND JAVA
+
+JAVA:-java is interpreted programming languge *INTERPRETED worked as small virtual system
+JAVA:-java has its own plateform
+JAVA:-invented by "GAMES GOSLING" in 1995 the team called "GREEN TEAM" company called "ORACLE"
+JAVA :-object orintal programer language
+JAVA:-its high leval langage
+
+C++:-it is object orital programming language
+*It has multiple plateform
+*C++ easy to learn
+
+
+10)CONSTRUCTOR OVERLOADING:-use more than one constructor in instance class this know as constructor overloading
+
+
+
+
+
+
+
+
+
+ 
